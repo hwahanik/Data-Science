@@ -6,5 +6,5 @@ This include:
 
 1.  Carbonate Rock Characterization.
 
-2.  Hydraulic Tortuosity analysis.
+2.  Hydraulic Tortuosity analysis of Carbonate rocks.
 
